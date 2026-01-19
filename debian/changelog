@@ -1,3 +1,10 @@
+
+link-query (0.0.4-3) unstable; urgency=low
+
+  * Added watch file + Vcs fields. 
+
+ -- Kim Saunders <kimpsaunders@gmail.com>  Mon, 19 Jan 2026 10:25:00 -0500
+
 link-query (0.0.4-2) unstable; urgency=low
 
   * Initial release. Closes: #1125348
