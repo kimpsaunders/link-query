@@ -1,0 +1,5 @@
+link-query (0.0.4-2) unstable; urgency=low
+
+  * Initial release. Closes: #1125348
+
+ -- Kim Saunders <kimpsaunders@gmail.com>  Mon, 19 Jan 2026 09:06:56 -0500

@@ -1,0 +1,19 @@
+Source: link-query
+Section: admin
+Priority: optional
+Maintainer: Kim Saunders <kimpsaunders@gmail.com>
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.7.0
+Homepage: https://github.com/kimpsaunders/lq/
+Rules-Requires-Root: no
+
+Package: link-query
+Architecture: any
+Multi-Arch: foreign
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends},
+Description: Symbolic link query tool.
+ The lq tool resolves and displays symbolic links and attributes
+ encountered while resolving paths.
