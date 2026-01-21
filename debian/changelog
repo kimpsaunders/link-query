@@ -1,3 +1,8 @@
+link-query (0.0.4-4) unstable; urgency=low
+
+  * Updated Standards-Version
+
+ -- Kim Saunders <kimpsaunders@gmail.com>  Tue, 20 Jan 2026 20:30:00 -0500
 
 link-query (0.0.4-3) unstable; urgency=low
 

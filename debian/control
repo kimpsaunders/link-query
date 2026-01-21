@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Kim Saunders <kimpsaunders@gmail.com>
 Build-Depends:
  debhelper-compat (= 13),
-Standards-Version: 4.7.0
+Standards-Version: 4.7.3
 Homepage: https://github.com/kimpsaunders/lq
 Rules-Requires-Root: no
 Vcs-Git: https://github.com/kimpsaunders/link-query
