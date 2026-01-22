@@ -4,24 +4,7 @@ Upstream-Contact: Kim Saunders <kimpsaunders@gmail.com>
 Source: https://github.com/kimpsaunders/lq
 # Please double check copyright with the licensecheck(1) command.
 
-Files:     Makefile
-           README.md
-           examples/Makefile
-           examples/README.m4
-           examples/alternatives.bash
-           examples/countdown.bash
-           examples/dangling.bash
-           examples/directory.bash
-           examples/interpreter
-           examples/loop.bash
-           examples/lq.py
-           examples/release.bash
-           lq.1
-           attribute.h
-           devino.c
-           devino.h
-           lq.c
-           debian/*
+Files: *
 Copyright: 2026 Kim Saunders
 License:   GPL-3.0+
  This program is free software: you can redistribute it and/or modify

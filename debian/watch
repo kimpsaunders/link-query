@@ -1,2 +1,2 @@
-version=4
+version=5
 https://github.com/kimpsaunders/lq/tags .*/v(\d.*).tar.gz

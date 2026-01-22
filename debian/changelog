@@ -1,17 +1,5 @@
-link-query (0.0.4-4) unstable; urgency=low
+link-query (0.0.4-5) unstable; urgency=low
 
-  * Updated Standards-Version
+  * Updated thngs
 
- -- Kim Saunders <kimpsaunders@gmail.com>  Tue, 20 Jan 2026 20:30:00 -0500
-
-link-query (0.0.4-3) unstable; urgency=low
-
-  * Added watch file + Vcs fields. 
-
- -- Kim Saunders <kimpsaunders@gmail.com>  Mon, 19 Jan 2026 10:25:00 -0500
-
-link-query (0.0.4-2) unstable; urgency=low
-
-  * Initial release. Closes: #1125348
-
- -- Kim Saunders <kimpsaunders@gmail.com>  Mon, 19 Jan 2026 09:06:56 -0500
+ -- Kim Saunders <kimpsaunders@gmail.com>  Thu, 22 Jan 2026 20:30:00 -0500
